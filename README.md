@@ -105,8 +105,7 @@
   <td>Завершен</td>
 </tr>
 <tr>
-  <td><a href ="https://github.com/Sata9islav/yandex_ds_projects/tree/main/15_final_project">Финальный 
-проект</a></td>
+  <td><a href ="https://github.com/Sata9islav/yandex_ds_projects/tree/main/15_final_project">Прогноз оттока клиентов</a></td>
   <td>Оператор связи «Ниединогоразрыва.ком» хочет научиться прогнозировать отток клиентов. Если выяснится, что пользователь планирует уйти, 
 ему будут предложены промокоды и специальные условия.</td>
   <td>Python,Pandas,Matplotlib,Scikit-learn, исследовательский анализ, визуализация данных, lightgbm, catboost</td>
